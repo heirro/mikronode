@@ -1,23 +1,27 @@
 {
-  "name": "mikronode-ng",
+  "name": "splynx-mikronode-ng",
   "description": "Mikrotik API implemented in Node",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "author": "Brandon Myers <trakkasure@gmail.com>",
   "contributors": [
     {
       "name": "George Joseph",
       "email": "george.joseph@fairview5.com"
+    },
+    {
+      "name": "Volodymyr Tsumanchuk",
+      "email": "volodymyr.tsumanchuk@splynx.com"
     }
   ],
-  "homepage": "http://f5eng.github.io/mikronode-ng",
+  "homepage": "https://github.com/splynx/mikronode-ng",
   "license": "MIT",
   "keywords": [
     "mikrotik",
     "socket",
     "api"
   ],
-  "repository": "git://github.com/f5eng/mikronode-ng",
-  "bugs": "https://github.com/f5eng/mikronode-ng/issues",
+  "repository": "git://github.com/splynx/mikronode-ng",
+  "bugs": "https://github.com/splynx/mikronode-ng/issues",
   "main": "lib/index",
   "engines": {
     "node": ">= 0.10.36"
