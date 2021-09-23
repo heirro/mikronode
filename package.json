@@ -1,5 +1,5 @@
 {
-  "name": "splynx-mikronode-ng",
+  "name": "splynx-mikronode-ng2",
   "description": "Mikrotik API implemented in Node",
   "version": "1.0.12",
   "author": "Brandon Myers <trakkasure@gmail.com>",
